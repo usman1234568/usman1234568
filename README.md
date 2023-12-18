@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there, my name is Muhammad Usman, and I am a data scientist
 
 <!--
 **usman1234568/usman1234568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
